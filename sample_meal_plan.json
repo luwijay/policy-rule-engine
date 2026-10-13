@@ -1,0 +1,16 @@
+{
+  "policy": "low_sodium",
+  "meals": [
+    {"meal_type": "breakfast", "items": [
+      {"name": "oatmeal, cooked", "grams": 250},
+      {"name": "banana", "grams": 100}]},
+    {"meal_type": "lunch", "items": [
+      {"name": "white rice, cooked", "grams": 200},
+      {"name": "fried chicken", "grams": 150},
+      {"name": "soy sauce", "grams": 20}]},
+    {"meal_type": "dinner", "items": [
+      {"name": "brown rice, cooked", "grams": 150},
+      {"name": "chicken breast, roasted", "grams": 120},
+      {"name": "broccoli, steamed", "grams": 100}]}
+  ]
+}
